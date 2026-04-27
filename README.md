@@ -300,7 +300,7 @@ The final score is the average PCC across all seven categories.
 
 ## Reported Results
 
-The related paper reports a **mean PCC score of 0.3254** on the official validation set for the ERI estimation challenge.
+The paper reports a **mean PCC score of 0.3254** on the official validation set for the ERI estimation challenge.
 
 The reported comparison is:
 
