@@ -172,21 +172,6 @@ tqdm
 opencv-python
 ```
 
-## Required Checkpoints
-
-This repository assumes that pretrained model checkpoints are prepared separately.
-
-Expected checkpoint files include:
-
-```text
-./models/resnet18_msceleb.pth
-./models/affecnet8_epoch5_acc0.6209.pth
-./models/resnet50_ft_weight.pkl
-```
-
-These files are not included in the repository.  
-They should be prepared before running feature extraction or training.
-
 ---
 
 ## Training and Evaluation Procedure
